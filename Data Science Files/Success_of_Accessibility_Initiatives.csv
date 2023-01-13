@@ -1,0 +1,21 @@
+Buisness Name,Initiative_Name,Date,Consumer_driven,Autism,Aging,Deaf,Blind,Speech,Light_sense,Wheelchair,ADHD,Mental_Health,Company_Code,Initiative_Close,Month_Close,Success,Positive Sentiment
+Amazon,Alexa_Accessability+,12/3/2021,1,1,1,1,0,1,0,0,0,0,AMZN,169.49,166.66,0,NaN
+Microsoft,Doubling_Down,04/28/2021,1,0,1,1,0,1,1,0,0,0,MSFT,254.56,259.31,1,NaN
+Apple,Accessibility_Preview,05/17/2022,1,0,1,1,1,1,0,0,0,0,APPL,149.24,131.56,0,NaN
+Google_Maps,Wheelchair_Nav,12/03/2019,1,0,1,0,0,0,0,1,0,0,MAPS,9.91,9.94,1,NaN
+Accenture,Diverse_Careers,08/17/2022,0,1,0,1,1,0,0,0,0,0,ACN,318.45,272.68,0,NaN
+Verizon,Disability_Advisory,05/20/2021,1,0,0,1,1,0,0,1,0,0,VZ,56.79,56.39,0,NaN
+Meta,Disability_Allyship,08/25/2022,0,0,0,0,1,0,0,0,0,0,META,168.78,141.41,0,NaN
+Uber,UberASSIST,12/27/2019,1,0,1,0,0,0,0,1,0,0,UBER,30.17,36.3,1,NaN
+LinkedIn,Curated_DEI,08/15/2022,1,0,0,0,0,0,0,1,0,0,LNKD,293.47,245.38,0,NaN
+IBM,Recruiting_And_Serving,09/25/2019,1,0,0,0,0,0,0,1,0,0,IBM,136.86,129.48,0,NaN
+Microsoft,Neurodiversity_Hiring_Program,04/13/2022,0,1,0,0,0,1,0,0,1,1,MSFT,285.26,261.12,0,NaN
+BHP,Neurodiversity_Hiring_Program,08/22/2019,0,1,0,0,0,0,0,0,0,0,BHP,42.15,45.14,1,NaN
+Dell,Neurodivergent_Talent,05/12/2022,0,1,0,0,0,0,0,0,0,0,DELL,43.74,47.35,1,NaN
+Google_Cloud,Strengthening_Neurodiverse_Talent,07/26/2021,0,1,0,0,0,0,0,0,0,0,GOOG,139.64,142.09,1,NaN
+HP,Autistic_Staff,12/06/2018,0,1,0,0,0,0,0,0,0,0,HP,23.24,21.21,0,NaN
+Adobe,ADHD_Awareness,10/05/2022,1,0,0,0,0,0,0,0,1,0,ADBE,297.38,299.54,1,NaN
+Amazon,Alexa,11/06/2014,1,0,1,0,1,1,1,0,1,0,AMZN,14.99,15.63,1,NaN
+Zoom,Zoom_Transcripts,02/12/2021,1,0,1,1,0,1,0,0,0,0,ZOOM,433.11,346.39,0,NaN
+Audioeye,WCAG 3.0,8/15/2022,1,1,1,1,1,1,0,0,1,0,AEYE,9.5,11.35,1,NaN
+Apple,ML_Accessibility,05/17/2022,1,0,1,1,1,1,0,0,0,0,APPL,145.54,131.56,0,NaN
